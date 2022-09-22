@@ -1,4 +1,4 @@
-## Using a Shiny app for passing in more dynamic parameters to render an rmarkdown document
+## Shiny app for rendering an rmarkdown
 
 ### Reference
 
