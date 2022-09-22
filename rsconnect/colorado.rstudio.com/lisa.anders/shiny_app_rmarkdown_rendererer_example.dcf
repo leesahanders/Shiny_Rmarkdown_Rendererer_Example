@@ -1,0 +1,13 @@
+name: shiny_app_rmarkdown_rendererer_example
+title: Shiny App Rmarkdown Rendererer Example
+username: lisa.anders
+account: lisa.anders
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 12747
+bundleId: 62689
+url: https://colorado.rstudio.com/rsc/content/58b5df61-3da2-489f-a873-d452a3109fb2/
+when: 1663883362.15941
+lastSyncTime: 1663883362.15942
+asMultiple: FALSE
+asStatic: FALSE
