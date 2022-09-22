@@ -1,10 +1,9 @@
+# Shiny App Rmarkdown Rendererer Example 
+# This project is using the code from (the best place ever): https://www.r-bloggers.com/2021/06/shiny-inception-javascript-in-rendered-markdown/
+
 library(shiny)
 library(knitr)
 library(dplyr)
-# Shiny App Rmarkdown Rendererer Example 
-
-
-
 library(tidyr)
 library(rmarkdown)
 
@@ -38,7 +37,7 @@ server <- function(input, output) {
 
 shinyApp(ui, server)
 
-# References: 
+# Additional references: 
 ## https://davidruvolo51.github.io/shinytutorials/tutorials/rmarkdown-shiny/ 
 ## https://stackoverflow.com/questions/34816637/parameterized-rmarkdown-document-on-shiny-application
 ## https://shiny.rstudio.com/articles/generating-reports.html 
