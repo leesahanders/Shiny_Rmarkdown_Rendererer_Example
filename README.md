@@ -1,5 +1,9 @@
 ## Using a Shiny app for passing in more dynamic parameters to render an rmarkdown document
 
+View this app yourself at: [https://colorado.rstudio.com/rsc/Rmarkdown_Rendererer_Example/](https://colorado.rstudio.com/rsc/Rmarkdown_Rendererer_Example/)
+
+### Reference
+
 This project is using the code from: [https://www.r-bloggers.com/2021/06/shiny-inception-javascript-in-rendered-markdown/](https://www.r-bloggers.com/2021/06/shiny-inception-javascript-in-rendered-markdown/)
 
 ### Purpose

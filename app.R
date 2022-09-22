@@ -1,21 +1,11 @@
 library(shiny)
 library(knitr)
-library(pins)
 library(dplyr)
+# Shiny App Rmarkdown Rendererer Example 
+
+
+
 library(tidyr)
-library(RPostgres)
-library(dbplyr)
-library(DBI)
-library(timevis)
-library(kableExtra)
-library(DT)
-library(htmltools)
-library(purrr)
-library(jsonlite) 
-library(here)
-library(future)
-library(yaml)
-library(rvest)
 library(rmarkdown)
 
 ui <- shinyUI(

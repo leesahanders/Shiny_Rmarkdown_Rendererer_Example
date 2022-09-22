@@ -1,0 +1,13 @@
+name: shiny_rmarkdown_example
+title: Shiny_Rmarkdown_example
+username: lisa.anders
+account: lisa.anders
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 12748
+bundleId: 62690
+url: https://colorado.rstudio.com/rsc/content/48146fb1-b003-4c02-9c8f-3753d32656e2/
+when: 1663883571.77729
+lastSyncTime: 1663883571.77733
+asMultiple: FALSE
+asStatic: FALSE
