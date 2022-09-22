@@ -20,6 +20,8 @@ This screenshot was taken in Chrome on 9/22/2022 using [https://github.com/Nicke
 
 ### Additional References
 
+This works by calling the [render](https://pkgs.rstudio.com/rmarkdown/reference/render.html) function directly within the shiny app. This approach would also work for regular rmarkdowns (without parameters), interactive rmarkdowns, quarto documents, or even for calling R and Python scripts. 
+
  - https://davidruvolo51.github.io/shinytutorials/tutorials/rmarkdown-shiny/ 
  - https://stackoverflow.com/questions/34816637/parameterized-rmarkdown-document-on-shiny-application
  - https://shiny.rstudio.com/articles/generating-reports.html 
